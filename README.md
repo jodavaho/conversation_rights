@@ -22,7 +22,7 @@ VIII. You have the right to specify the audience for your arguments. That is, yo
 
 IX. You have the right to request and /or specify a structure for the exchange of information. These "rules of order" shall be agreed to by all parties or not used, and shall apply to all parties equally, with the exception of an optional "moderator" who directs the conversation according to the rules. If used, the moderator shall act impartially and shall be precluded from contributing to the exchange. Specifically, you have the right to request a moderator in any exchange of information. 
 
-X. You have the right to public discourse. You can, at any time, request that an exchange of information or dialog be conducted in the party of any  observer, and to withhold your contributions if this is not agreed to. The observer is under no obligation to keep their observations confidential unless agreed upon by all parties.  
+X. You have the right to request limited or expanded audience. You can, at any time, request that an exchange of information or dialog be conducted in the party of any  observer(s) (or in private), and to withhold your contributions if this is not agreed to. The observer is under no obligation to keep their observations confidential unless agreed upon by all parties.  
 
 # License
 
